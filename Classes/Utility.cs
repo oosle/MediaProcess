@@ -1,10 +1,6 @@
 ﻿using System;
 using System.IO;
-using System.Text;
-using System.Collections.Generic;
-using System.Configuration;
 using System.Reflection;
-using Microsoft.Win32;
 
 namespace MediaProcess
 {
